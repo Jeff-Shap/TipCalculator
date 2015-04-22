@@ -1,6 +1,6 @@
 #tip.rb
 
-#require 'sinatra'
+require 'sinatra'
 enable 'sessions'
 
 
