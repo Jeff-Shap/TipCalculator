@@ -1,1 +1,1 @@
-web: ruby tip.rb -p $PORT
+web: ruby tip.rb
